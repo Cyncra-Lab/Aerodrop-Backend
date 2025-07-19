@@ -21,7 +21,7 @@ This version supports:
 
 - **Language:** Python 3.13
 - **Framework:** Django 5.2
-- **Database:** (To be added, e.g., PostgreSQL or SQLite)
+- **Database:** (To be added, e.g.,MongoDB, PostgreSQL or SQLite)
 - **API Framework:** Django REST Framework (DRF)
 - **Others:** Python Decouple for environment management
 
